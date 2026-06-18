@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+
+data/processed/
+
+models/*.pkl
+models/*.joblib
+
+*.pbix
+
+.DS_Store
