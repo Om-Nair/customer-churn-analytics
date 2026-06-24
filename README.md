@@ -194,4 +194,8 @@ customer-churn-analytics/
 
 ## Author
 
+<<<<<<< HEAD
 Developed as an end-to-end business analytics and machine learning project demonstrating data cleaning, exploratory analysis, predictive modeling, and business decision support.
+=======
+Developed as an end-to-end business analytics and machine learning project demonstrating data cleaning, exploratory analysis, predictive modeling, and business decision support.
+>>>>>>> c59abaa (Save local progress before syncing with remote)
